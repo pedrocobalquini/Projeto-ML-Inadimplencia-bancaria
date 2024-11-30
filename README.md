@@ -10,6 +10,7 @@ Os dados utilizados no projeto contêm informações demográficas, de crédito,
 
 ### 2.1 Variáveis Demográficas
 LIMIT_BAL: Valor do crédito fornecido (em novos dólares taiwaneses - NT), incluindo crédito individual e familiar.
+
 SEX: Gênero do cliente:
 - 1 = Masculino
 - 2 = Feminino
